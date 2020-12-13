@@ -23,7 +23,5 @@ Welcome to my profile, nice to meet you!, my name is Fadil and I am currently wo
 ![Flutter](http://img.shields.io/badge/-Flutter-3f51b5?style=flat-square&logo=flutter&logoColor=ffffff)
 ![AWS](http://img.shields.io/badge/-AWS-ff5722?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 
-![deuterium's github](https://github-readme-stats.vercel.app/api?username=fadilparves&show_icons=true&hide_border=true)
-
 ---
 With :heart: From [Fadil](https://github.com/fadilparves)
