@@ -3,8 +3,6 @@
 [![](https://img.shields.io/badge/Gmail-fadil.parves%40gmail.com-red)](mailto:fadil.parves@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40fadilParves-blue)](https://t.me/fadilParves)
 
-Welcome to my profile, nice to meet you!, my name is Fadil and I am currently working as data scientist at one of largest telco company in Malaysia, besides doing data science stuff im into software engineering as well, that's how my career started :smiley:. Contact me if you are looking to collebrate on any projects or starting up new venture together, im always looking forward to innovate things.
-
 ### Tech Stack
 
 ![Python](http://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)
