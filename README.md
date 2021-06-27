@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Fadil</h1>
-<h3 align="center">Machine Learning enthusiast from Malaysia</h3>
+<h3 align="center">Data Scientist from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilparves&label=Profile%20views&color=0e75b6&style=flat" alt="fadilparves" /> </p>
 
