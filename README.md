@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fadil.parves@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fadilparves/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAjmUuABbUegrz0KPZ4OsJxcm6u-FSc25pc,1635460935295)/](https://www.linkedin.com/in/fadilparves/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAjmUuABbUegrz0KPZ4OsJxcm6u-FSc25pc,1635460935295)/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/fadilparves)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
