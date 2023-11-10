@@ -24,16 +24,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="rust" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="ruby" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/react.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="fastapi" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/></a> 
+<a href="https://golang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" width="40" height="40"/></a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a> 
+<a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/></a> 
+<a href="https://www.rust-lang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="rust" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/></a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php" width="40" height="40"/></a> 
+<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="ruby" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/40/000000/react.png" alt="react" width="40" height="40"/></a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="40" height="40"/></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/FFFFFF/48/000000/flask.png" alt="flask" width="40" height="40"/></a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/></a> 
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://img.icons8.com/color/48/
