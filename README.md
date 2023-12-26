@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Fadil</h1>
-<h3 align="center">A passionate Software Engineer & Machine Learning Engineer with 8 years of experience</h3>
+<h3 align="center">A passionate Software Engineer & Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilparves&label=Profile%20views&color=0e75b6&style=flat" alt="yourGitHubUsername" /> </p>
 
